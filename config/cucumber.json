@@ -9,7 +9,7 @@
             "src/tests/hooks/*.ts"
         ],
 
-        "tags":"",
+        "tags":"@Login",
 
         "formatOptions": {
             "snippetInterface": "async-wait"
